@@ -33,7 +33,9 @@ COPY sperm.yaml yolov5/sperm.yaml
 ## sperm.yaml
 
 train: sperm/sperm_train
+
 val: sperm/sperm_val
+
 test: sperm/sperm_test
 
 nc: 1
