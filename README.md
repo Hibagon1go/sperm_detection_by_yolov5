@@ -1,6 +1,6 @@
 # dockerによる環境構築で、yolov5を学習させる方法
 
-## ファイル構成(このReadme.mdのrawファイルを見てください)
+## ファイル構成
 sperm_eval/
 
 　├ Dockerfile
