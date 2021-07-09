@@ -2,13 +2,21 @@
 
 ## ファイル構成(このReadme.mdのrawファイルを見てください)
 sperm_eval/
+
 　├ Dockerfile
+ 
 　├ sperm.yaml
+ 
 　├ sperm/
+ 
 　│　└ sperm_train
+ 
 　│　└ sperm_val
+ 
 　│　└ sperm_test
+ 
 　└ results/
+ 
 　　 └ 適宜結果を入れるファイル作成
 
 ## Dockerfile
